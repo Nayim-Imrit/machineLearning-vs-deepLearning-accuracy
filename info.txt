@@ -1,0 +1,5 @@
+corpus:
+__label__1 = Negative
+__label__2 = Postive
+
+wiki-news-300d-1M.vec.zip: 1 million word vectors trained on Wikipedia 2017, UMBC webbase corpus and statmt.org news dataset (16B tokens).
